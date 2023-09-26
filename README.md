@@ -1,5 +1,5 @@
 ## ThunderFurri
-### they/them - programmer - professional moron
+### they/them - programmer - amature dumbass
 
 ## Stuff:
 
