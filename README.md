@@ -1,4 +1,4 @@
-## ThunderFurri
+## Kamiinari
 ### they/them - programmer - amature dumbass
 
 ## Stuff:
