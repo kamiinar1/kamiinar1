@@ -8,4 +8,4 @@ i know the languages <br/>
 and i want to know C++ but im too stupid to learn it
 
 
--# that again
+that again
