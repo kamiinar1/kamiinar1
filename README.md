@@ -1,6 +1,6 @@
 ## Kamiinari
-### he/him (and they/them) - programmer - you wouldn't believe it but - ▙▚▙ ▛▟▞ ▟▟▙
-did you know this is the only place I will publicly announce that I am an arch user? That's right, and if you think it must suck well it very much does but everythings purple so i'm happy.
+### he/him - prog am er - you wouldn't believe it but - ▙▚▙ ▛▟▞ ▟▟▙
+did you know this is the only place I will publicly announce that I am an (update: artix) user? That's right, and if you think it must suck well it very much does but everythings (update: idk) so i'm (update: neutral).
 ###### favorite snack: gotta be pringles,
 ###### favorite foood: mac n cheese, next question,
 ###### window manager: probably using hyprslop
