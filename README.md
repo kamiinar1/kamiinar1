@@ -3,7 +3,7 @@
 did you know this is the only place I will publicly announce that I am an arch user? That's right, and if you think it must suck well it very much does but everythings purple so i'm happy.
 ###### favorite snack: gotta be pringles,
 ###### favorite foood: mac n cheese, next question,
-###### window manager: probably using niri
+###### window manager: probably using hyprslop
 ###### favorite font: firacode mono
 
 ## Programming Stuff:
